@@ -1,7 +1,7 @@
 ---
 title: "Layout: Comments Enabled"
 layout: single
-comments: true
+comments: true 
 categories:
   - Layout
   - Uncategorized

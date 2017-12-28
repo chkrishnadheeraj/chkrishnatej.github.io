@@ -224,24 +224,6 @@ defaults:
       comments: true #I added this
       sidebar:
         nav: "docs"
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _portfolio
   - scope:
       path: ""
@@ -258,6 +240,7 @@ defaults:
       layout: archive
       author_profile: true
       share: true
+      comments: true
 
 
 # Sass/SCSS

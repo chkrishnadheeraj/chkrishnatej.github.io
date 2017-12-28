@@ -327,3 +327,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+staticman_url: https://api.staticman.net/v2/entry/chkrishnatej.github.io/master/comments

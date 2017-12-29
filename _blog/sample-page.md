@@ -2,7 +2,7 @@
 title: "Sample Page"
 permalink: /blog/sample-page/
 date: 2016-02-24T03:02:20+00:00
-layout: archive
+layout: single
 author_profile: true
 ---
 

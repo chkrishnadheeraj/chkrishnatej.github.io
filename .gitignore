@@ -4,3 +4,8 @@ _config.dev.yml
 Gemfile.lock
 staticman_original.yml
 _site/
+_blog/baz-boom-identity.md
+_blog/sample-page.md
+_posts/2012-01-02-layout-comments.md
+_posts/firstmy.md
+staticman.yml

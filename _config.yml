@@ -89,9 +89,9 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : 
-  bio              : "Just another boring, tattooed, time traveling, designer."
+  bio              : "Associate Data Scientist working in field of NLP"
   location         : "Bengaluru"
-  email            :
+  email            : "chkrishnatej@gmail.com"
   uri              : 
   home             : 
   bitbucket        :

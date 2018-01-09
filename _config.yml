@@ -234,7 +234,7 @@ defaults:
       share: true
   # _blog
   - scope:
-      path: ""
+      path: "_blog"
       type: blog
     values:
       layout: single

@@ -12,3 +12,4 @@ _posts/2012-01-02-layout-comments.md
 staticman.yml
 .cache
 .DS_Store
+assets/.DS_Store

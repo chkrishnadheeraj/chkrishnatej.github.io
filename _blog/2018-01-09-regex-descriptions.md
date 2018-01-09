@@ -1,5 +1,6 @@
 ---
 title: "Regular Expressions Descriptions"
+excerpt: "Regular Expressions"
 layout: single
 permalink: /blog/regex-descriptions/
 comments: true

@@ -23,15 +23,15 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-# This is gonna be iin the home page
+# This is gonna be in the home page
 
 ## Heading 1
 
 ### Heading 2 
 
-  * kshdbbksbsdjb
-  * kjskbkbsdkbksbkb
-  * Rest is hotsotjkk skd  sldlsnlsks
+  * First Point
+  * Second Point
+  * Third Point
 
 {% include feature_row %}
 

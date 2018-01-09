@@ -16,7 +16,7 @@ title_separator          : "-"
 name                     : &name "Krishna Tej" # &name is a YAML anchor which can be *referenced later
 description              : &description "My personal blog for ML and NLP"
 url                      : https://chkrishnatej.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :  "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  :   # the subpath of your site, e.g. "/blog"
 repository               : "chkrishnatej/chkrishnatej.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -177,15 +177,15 @@ kramdown:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # docs:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # recipes:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
   blog:
     output: true
     permalink: /:collection/:path/
@@ -213,25 +213,25 @@ defaults:
       author_profile: true
       comments: true #I added this
   # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: true #I added this
-      sidebar:
-        nav: "docs"
+  # - scope:
+  #     path: ""
+  #     type: docs
+  #   values:
+  #     layout: single
+  #     read_time: false
+  #     author_profile: false
+  #     share: false
+  #     comments: true #I added this
+  #     sidebar:
+  #       nav: "docs"
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
   # _blog
   - scope:
       path: "_blog"

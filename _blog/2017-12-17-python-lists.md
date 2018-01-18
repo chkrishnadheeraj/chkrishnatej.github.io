@@ -62,7 +62,7 @@ Lists are created by using `[ ]` brackets.
     >>> print (list_5)
     ['Burger', 'Sushi', 'Pizza', 'Hot Dog', 'Panner', 'Chole']
     ```
-    #### Note:
+    **Note**:
     If we would have used `insert` or `append` method to append a list to another list, it would consider the list as one object as shown below.
     ```python
     >>> list_5 = ['Burger', 'Sushi', 'Pizza', 'Hot Dog']

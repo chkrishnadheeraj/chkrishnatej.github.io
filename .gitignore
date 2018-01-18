@@ -13,3 +13,5 @@ staticman.yml
 .cache
 .DS_Store
 assets/.DS_Store
+_blog/python-classes-and-instances.md
+.DS_Store

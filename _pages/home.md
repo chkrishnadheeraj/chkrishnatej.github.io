@@ -1,13 +1,13 @@
 ---
-layout: splash
+layout: single
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/home-page-feature.jpg
   # cta_label: "<i class='fa fa-download'></i> Install Now"
   # cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Whatever you write here will be displayed in the banner'
+excerpt: # 'Whatever you write here will be displayed in the banner'
 # feature_row:
 #   - image_path: /assets/images/mm-free-feature.png
 #     alt: "100% free"
@@ -18,7 +18,7 @@ excerpt: 'Whatever you write here will be displayed in the banner'
 #     btn_label: "Learn More"
  
 intro:
-  - excerpt: 'This is your intro in the homepage &nbsp; [<i class="fa fa-github"></i> chkrishnatej](https://github.com/chkrishnatej){: .btn .btn--github} [<i class="fa fa-paypal"></i> Contact Me](/minimal-mistakes/about){: .btn .btn--primary}'
+  - excerpt: 'My GitHub &nbsp; [<i class="fa fa-github"></i> chkrishnatej](https://github.com/chkrishnatej){: .btn .btn--github} My contact &nbsp;[<i class="fa fa-github"></i> Contact Me](/contact){: .btn .btn--primary}'
 ---
 
 {% include feature_row id="intro" type="center" %}
